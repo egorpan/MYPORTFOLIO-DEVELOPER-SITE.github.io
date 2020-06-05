@@ -1,16 +1,16 @@
 @font-face {
   font-family: 'OpenSans';
-  src: url("../../fonts/OpenSans/OpenSans-Regular.ttf");
+  src: url("../fonts/OpenSans/OpenSans-Regular.ttf");
 }
 
 @font-face {
   font-family: 'OpenSans';
-  src: url("../../fonts/OpenSans/OpenSans-Regular.ttf");
+  src: url("../fonts/OpenSans/OpenSans-Regular.ttf");
 }
 
 @font-face {
   font-family: 'Metropolis';
-  src: url("../../fonts/metropolis/Metropolis-Regular.otf");
+  src: url("../fonts/metropolis/Metropolis-Regular.otf");
 }
 
 * {
@@ -49,7 +49,7 @@
 }
 
 .header_form {
-  background-image: url(../../../images/haeder_bg-img.png);
+  background-image: url(../images/haeder_bg-img.png);
   background-repeat: no-repeat;
   height: 880px;
 }
@@ -441,7 +441,7 @@
 
 .phone-represent_form {
   height: 845px;
-  background: url(../../../images/akatu_bg.png);
+  background: url(../images/akatu_bg.png);
   background-repeat: no-repeat;
   display: -webkit-box;
   display: -webkit-flex;
@@ -551,7 +551,7 @@
 
 .contact_form {
   height: 850px;
-  background-image: url(../../../images/contact_bg.png);
+  background-image: url(../images/contact_bg.png);
   background-repeat: no-repeat;
 }
 
