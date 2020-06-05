@@ -13,10 +13,6 @@
   src: url("../fonts/metropolis/Metropolis-Regular.otf");
 }
 
-body {
-  min-width: 1342px;
-}
-
 * {
   margin: 0;
   padding: 0;
