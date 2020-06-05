@@ -282,7 +282,6 @@ body {
 
 .akita_firstimg {
   margin-left: 340px;
-  width:600px;
 }
 
 .akita_form h2 {
@@ -590,7 +589,7 @@ body {
 }
 
 .contact_message {
-  width: 900px;
+  width: 1160px;
   height: 150px;
   background: transparent;
   padding: 0 0 100px 20px;
